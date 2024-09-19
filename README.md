@@ -1,0 +1,1 @@
+Created This Repository to store all the mini projects I made while learning machine learning from Udemy A-Z Course. The certificate is also attached in this repository.
